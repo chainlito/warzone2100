@@ -867,6 +867,7 @@ MESSAGE *findMessage(const VIEWDATA *pViewData, MESSAGE_TYPE type, UDWORD player
 		}
 	}
 
+
 	//not found the message so return NULL
 	return nullptr;
 }
